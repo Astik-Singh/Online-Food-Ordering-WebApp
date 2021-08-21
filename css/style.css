@@ -71,7 +71,7 @@ html{
     display: flex;
     flex-direction: column;
     padding:3px 200px;
-    height: 510px;
+    height: 550px;
     justify-content: center;
     align-items: center;
 }
@@ -80,7 +80,7 @@ html{
     content: "";
     position: absolute;
     background: url('../bg1.jpg') no-repeat center center/cover;
-    height: 600px;
+    height: 620px;
     top:0px;
     left:0px;
     width: 100%;
